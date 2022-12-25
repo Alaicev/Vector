@@ -1,3 +1,3 @@
 # Links
 
-## https://alaicev.github.io/Vector/Vector-Servis/index.html
+## https://alaicev.github.io/vector/Vector-Servis/index.html
